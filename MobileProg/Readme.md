@@ -13,7 +13,9 @@
 Клиент на основе этого файла генерирует интерфейс
 
 **HTTP-запрос и ответ**
+
 Запрос:
+
 ![image](https://user-images.githubusercontent.com/97594112/213110572-60c905ea-c5ba-49c5-83b8-45fa51f89c7b.png)
 
 1. Получение главной страницы сайта (индекс)
@@ -23,6 +25,7 @@
 5. Закрытие соединений
 
 Ответ:
+
 ![image](https://user-images.githubusercontent.com/97594112/213112042-bab1d6ca-1c16-48ff-acbe-f2778accfeb8.png)
 
 1. Версия протокола HTTP и статус ответа
@@ -31,7 +34,9 @@
 4. Длина сообщения
 
 **HTTP-метод**
+
 ![image](https://user-images.githubusercontent.com/97594112/213112997-df774309-3f82-4a44-a00e-61e6ce54940e.png)
+
 GET - получение ресурса
 POST- создание ресурса
 DELETE - удаление ресурса
