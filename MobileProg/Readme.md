@@ -15,6 +15,7 @@
 **HTTP-запрос и ответ**
 
 ![image](https://user-images.githubusercontent.com/97594112/213110572-60c905ea-c5ba-49c5-83b8-45fa51f89c7b.png)
+
 Запрос:
 1. Получение главной страницы сайта (индекс)
 2. Адрес сервера (хост)
@@ -23,6 +24,7 @@
 5. Закрытие соединений
 
 ![image](https://user-images.githubusercontent.com/97594112/213112042-bab1d6ca-1c16-48ff-acbe-f2778accfeb8.png)
+
 Ответ:
 
 
