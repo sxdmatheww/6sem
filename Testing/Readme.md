@@ -27,5 +27,6 @@
 3. По изменениям: регрессивное тестирование (возврат к предыдущему) / подтверждающее (итоговый проект) 
 
 ![image](https://user-images.githubusercontent.com/97594112/215058259-6982aee7-0f2b-4314-a6e2-74cd19bf0157.png)
+![image](https://user-images.githubusercontent.com/97594112/215060968-0235edcc-c11c-4085-8ec4-1b9c803c51e9.png)
 
 
