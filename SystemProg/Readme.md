@@ -1,5 +1,3 @@
-https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#
-
 ЛК1 Операционная система
 Архетиктура фон Неймана
 Двоичная система (есть сигнал - 1, нет сигнала - 0)
@@ -87,6 +85,14 @@ Windows 2000 <-> Windows XP
 Ссылки
 Именованные каналы
 Сокеты
+
+01.02.2023
+https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#
+
+Задание номер 1
+![image](https://user-images.githubusercontent.com/97594112/215966966-1de92550-ad09-4d21-8eb2-a9153347696e.png)
+
+Задание номер 2
 
 
 
