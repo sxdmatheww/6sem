@@ -90,9 +90,11 @@ Windows 2000 <-> Windows XP
 https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#
 
 Задание номер 1
+
 ![image](https://user-images.githubusercontent.com/97594112/215966966-1de92550-ad09-4d21-8eb2-a9153347696e.png)
 
 Задание номер 2
+
 ![image](https://user-images.githubusercontent.com/97594112/215972440-ee0a832c-3c12-4db4-a438-068c8d28243f.png)
 
 ![image](https://user-images.githubusercontent.com/97594112/215972572-8272e617-3bcf-4e6e-97ea-9e6bfd224040.png)
