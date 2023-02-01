@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1z27O5xLblWKjIxcXRZnbd1smm-oYa8bt/edit#
+
 ЛК1 Операционная система
 Архетиктура фон Неймана
 Двоичная система (есть сигнал - 1, нет сигнала - 0)
