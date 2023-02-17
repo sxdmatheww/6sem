@@ -3,3 +3,4 @@
 ![Снимок экрана 2023-01-13 123831](https://user-images.githubusercontent.com/97594112/212288910-c7d351b7-93ed-4b80-86cd-703c70b72f84.png)
 ![Снимок экрана 2023-01-13 124239](https://user-images.githubusercontent.com/97594112/212288916-4ecda755-f6ad-4160-afdc-a046621fcbc6.png)
 
+[NICESOC.zip](https://github.com/sxdmatheww/6sem/files/10764981/NICESOC.zip)
