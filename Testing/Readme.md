@@ -91,8 +91,22 @@
 Тольео четные числа / только нечетные числа
 
 
+index = input("Введите индекс:")
 
+print(index)
+a=0
+while a != "Bce верно"
+    if index.isdigit():
+    while len(index) != 6:
+    index = input("Неверная длина, введите индекс: ")
+    while index[@] == "e":
+        index = input("Нельзя начинать с 0, введите индекс: ")
+    print("Bce Bepнo")
+    a = "Bce Bepнo"
+    else:
+    index = input("Оставьте цифры, введите индекс: ")
 
+![image](https://user-images.githubusercontent.com/97594112/219617590-936edafe-a9b8-4d2f-aad8-688dcce14fc5.png)
 
 
 
