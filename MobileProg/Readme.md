@@ -1,4 +1,9 @@
-      Работа с AOI
+![image](https://user-images.githubusercontent.com/97594112/224934043-03cc790f-72cb-419a-a4b1-3c04df8d1e2a.png)
+
+
+
+
+Работа с AOI
 **Клиент-серверная архитектура**
 
 1. Клиент вводит адрес сайта
