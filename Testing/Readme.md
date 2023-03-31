@@ -109,6 +109,39 @@ while a != "Bce верно"
 ![image](https://user-images.githubusercontent.com/97594112/219617590-936edafe-a9b8-4d2f-aad8-688dcce14fc5.png)
 
 
+	Исключение
+![image](https://user-images.githubusercontent.com/97594112/229087458-26fb26b3-4c00-408f-a430-1d7cfeb732b9.png)
+
+пример ошибки division by constant zero
+![image](https://user-images.githubusercontent.com/97594112/229087699-81389747-f39c-4924-af72-e41c3f6e92e5.png)
+
+Если в программе не знаем ошибку, то мы не можем использовать if и else.
+В программе естьт способ для обработки ошибок, называется исключение
+
+Структура исключения:
+1) Код, который мы хотим выполнить
+2) Поиск ошибок
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
