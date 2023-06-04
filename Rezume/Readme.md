@@ -1,3 +1,6 @@
+![image](https://github.com/sxdmatheww/6sem/assets/97594112/2b0ec171-9dc2-437c-a545-4fd9f36acafd)
+
+
 Шаблон программиста https://myresume.ru/examples/programmist/ 
 Figma шаблон сайта резюме https://www.figma.com/community/tag/resume/files
 Нет опыта работы https://guides.hexlet.io/how-to-create-a-resume/#когда-программисту-начинать-составлять-резюме 
