@@ -1,4 +1,8 @@
+Дипломы:
 ![image](https://github.com/sxdmatheww/6sem/assets/97594112/2b0ec171-9dc2-437c-a545-4fd9f36acafd)
+![image](https://github.com/sxdmatheww/6sem/assets/97594112/056e40d8-f0ec-49d2-ac1d-333314ceb966)
+![image](https://github.com/sxdmatheww/6sem/assets/97594112/8040aef1-b3a7-4211-8ae6-f8bdeb3623a4)
+![image](https://github.com/sxdmatheww/6sem/assets/97594112/459f6326-ef2b-4f43-8bdb-2b4eea267a63)
 
 
 Шаблон программиста https://myresume.ru/examples/programmist/ 
